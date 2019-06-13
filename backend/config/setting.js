@@ -1,0 +1,5 @@
+// THIS IS THE PLACE WHERE YOU PUT YOUR OWN CREDENTAILS
+
+module.exports = {
+    MONGO_URL_DEV: '',
+};
